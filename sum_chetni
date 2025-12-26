@@ -1,0 +1,11 @@
+#include "sum_chetni."
+
+sum_chetni::sum_chetni()
+{
+    //ctor
+}
+
+sum_chetni::~sum_chetni()
+{
+    //dtor
+}
